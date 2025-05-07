@@ -1,0 +1,12 @@
+{
+    "id": "361c99dd-15c1-4d57-b7bf-ac6edccb3116",
+    "name": "Knop",
+    "category": "Text",
+    "description": "Voorbeeld blok",
+    "author": "GeoApps B.V.",
+    "version": 0,
+    "form": "form:\r\n  fields:\r\n    - name: \"text.content\"\r\n      type: text\r\n      label: Tekst\r\n",
+    "defaultConfig": "version: '1.0'\r\ntext:\r\n  content: \"Hello World!\"\r\n",
+    "schema": "{}",
+    "icon": "https://preview.geoapps.dev/api/v1/blocktypes/361c99dd-15c1-4d57-b7bf-ac6edccb3116/icon"
+}
