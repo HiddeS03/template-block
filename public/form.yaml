@@ -1,0 +1,5 @@
+form:
+  fields:
+    - name: "text.content"
+      type: text
+      label: Tekst

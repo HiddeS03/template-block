@@ -25,3 +25,4 @@ dist-ssr
 .__mf__temp
 dist-no-scope
 tsconfig.node.tsbuildinfo
+coverage

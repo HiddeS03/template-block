@@ -1,5 +1,6 @@
 import { createRoot } from "react-dom/client";
 import { Block } from "../Block";
+import React from 'react';
 
 let root: any = null;
 
