@@ -26,7 +26,7 @@ Wanneer een update bestaat in de template-block kan jouw repostiroy geüpdate wo
 1. Fetch van laatste update:
 
 ```sh
-git fetch update
+git fetch template
 ```
 
 2. Cherry pick laatste update
