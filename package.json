@@ -7,8 +7,8 @@
     "watch": "vite --config .config/vite.config.ts",
     "build": "tsc -b .config/tsconfig.json && vite build --config .config/vite.config.ts && vite build --config .config/vite.config.no-scope.ts",
     "lint": "eslint . --config .config/eslint.config.js",
-    "test": "vitest",
-    "test:coverage": "vitest run --coverage",
+    "test": "vitest --config .config/vitest.config.ts",
+    "test:coverage": "vitest run --coverage --config .config/vitest.config.ts",
     "test:report": "start coverage/index.html"
   },
   "dependencies": {

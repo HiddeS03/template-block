@@ -7,7 +7,7 @@ export default defineConfig({
         onConsoleLog(log, type) {
             return true; // explicitly allow all logs
         },
-        setupFiles: './vitest.setup.ts',
+        setupFiles: './.config/vitest.setup.ts',
         coverage: {
             reporter: ["text", "html"], // terminal + HTML rapport
             exclude: [
