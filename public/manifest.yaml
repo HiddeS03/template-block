@@ -1,7 +1,7 @@
-id: ac40c492-724f-4d58-9eab-8c8a8cabeb09
+id: ac40c492-724f-4d58-9eab-8c8a8cabeb15
 name: "Template"
 author: "MapGear"
 category: "Text"
 description: "Een template voor de ontwikkelaar"
-icon: "http://localhost:4569/blocks/f403d847-ca73-4e04-a7cf-0a0c51748b9d/dist/icon.svg"
+icon: "http://localhost:4569/blocks/f403d847-ca73-4e04-a7cf-8c8a8cabeb15/dist/icon.svg"
 version: "1.0"
