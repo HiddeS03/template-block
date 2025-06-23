@@ -1,5 +1,5 @@
 {
-    "id": "ac40c492-724f-4d58-9eab-8c8a8cabeb09",
+    "id": "ac40c492-724f-4d58-9eab-8c8a8cabeb15",
     "name": "Template",
     "category": "Text",
     "description": "Voorbeeld blok",
@@ -8,5 +8,5 @@
     "form": "form:\r\n  fields:\r\n    - name: \"text.content\"\r\n      type: text\r\n      label: Tekst\r\n",
     "defaultConfig": "version: '1.0'\r\ntext:\r\n  content: \"Hello World!\"\r\n",
     "schema": "{}",
-    "icon": "https://preview.geoapps.dev/api/v1/blocktypes/361c99dd-15c1-4d57-b7bf-ac6edccb3116/icon"
+    "icon": "https://preview.geoapps.dev/api/v1/blocktypes/ac40c492-724f-4d58-9eab-8c8a8cabeb15/icon"
 }
